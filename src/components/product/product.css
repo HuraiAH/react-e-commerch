@@ -1,0 +1,23 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.baraz_product{
+    background-color: #f7f7f7;
+}
+
+.Baraz_card:hover{
+        background-color: #fff;
+}
+.product_details{
+    font-size: 14px;
+    color: #6C758D;
+}
+.present_price{
+    font-weight: 500;
+    color: #f57224;
+}
+
+.prev_price{
+    text-decoration: line-through;
+    color: #6C758D;
+}

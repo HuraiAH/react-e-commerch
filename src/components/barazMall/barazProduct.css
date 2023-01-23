@@ -1,0 +1,14 @@
+.lode_more{
+    border: none;
+    background: none;
+    outline: none;
+    padding: 6px 55px;
+    border: 1px solid #0d6efd !important;
+    color: #0d6efd;
+    border-radius: 4px;
+    transition: all 0.4s ease 0s;
+}
+.lode_more:hover{
+    background-color: #0d6efd !important;
+    color: #fff;
+}

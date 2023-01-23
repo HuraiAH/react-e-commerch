@@ -1,0 +1,23 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar{
+    background-color: #ececec;
+}
+.nav-link{
+    font-size: 13px;
+    padding: 4px 20px;
+    margin-left: 20px;
+}
+.navbar-toggler{
+    background: none;
+    border: none;
+}
+.navbar-toggler:focus{
+    background-color: none;
+    border: none;
+}
+#vasa{
+    background-color: none;
+    border: none;
+}
